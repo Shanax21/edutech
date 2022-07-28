@@ -1,0 +1,20 @@
+.carousel-item::before{
+    content:"";
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background:#000;
+    opacity:0.7;
+}
+
+.carousel-caption{
+    bottom:250px;
+}
+
+.card-title{
+    color:rgb(71, 70, 70);
+
+}

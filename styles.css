@@ -18,6 +18,10 @@
         height:370px;
     }
 
+    .ticker{
+        width:100%;
+    }
+
 }
 
 @media only screen and (min-width:610px){
@@ -25,11 +29,19 @@
         bottom:100px;
     }
 
+    .ticker{
+        width:50%;
+    }
+
 }
 
 @media only screen and (min-width:992px){
     .carousel-caption{
         bottom:250px;
+    }
+
+    .ticker{
+        width:50%;
     }
 
 }

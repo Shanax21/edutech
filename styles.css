@@ -12,7 +12,7 @@
 
 @media screen and (max-width:600px){
     .carousel-caption{
-        bottom:0px;
+        bottom:20px;
     }
     .heighter{
         height:370px;
